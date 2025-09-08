@@ -1,5 +1,5 @@
 <?php
-namespace app\Controller\Pages;
+namespace App\Controller\Pages;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\Routing\Annotation\Route;
 
