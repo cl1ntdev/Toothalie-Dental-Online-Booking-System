@@ -1,5 +1,5 @@
 <?php
-namespace App\Controller\API;
+namespace App\Controller\Auth;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
