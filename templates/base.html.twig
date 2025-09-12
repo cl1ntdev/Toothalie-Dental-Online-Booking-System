@@ -11,12 +11,10 @@
     {% endblock %}
 
     {# OR if you just want CDN Tailwind without Encore #}
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/tailwind.min.css" rel="stylesheet">
 
     {% block javascripts %}
       {{ encore_entry_script_tags('app') }}
     {% endblock %}
-    <script src="https://cdn.tailwindcss.com"></script>
     
   </head>
   <body>
